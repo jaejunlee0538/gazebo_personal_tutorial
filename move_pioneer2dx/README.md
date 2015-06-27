@@ -75,6 +75,19 @@ int main(int argc, char** argv){
 }
 ```
 
+## How to Run
+
+Run the following commands.
+
+```shell
+$ cd move_pioneer2dx
+$ mkdir build
+$ cd build
+$ cmake ..
+$ make
+$ ./move_pioneer2dx
+```
+
 ## Code Explanation
 ...
 
