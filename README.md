@@ -13,15 +13,17 @@ gazebo : version 2.2.5
 
 version 2.4.8
 
-gazebo_ros 
+[gazebo_ros_pkgs](https://github.com/ros-simulation/gazebo_ros_pkgs)
 
-gazebo_plugins 
+* gazebo_ros 
 
-gazebo_msgs
+* gazebo_plugins 
 
-gazebo_ros_control
+* gazebo_msgs
 
-gazebo_ros_pkgs
+* gazebo_ros_control
+
+* gazebo_ros_pkgs
 
 --------------------------------
 
