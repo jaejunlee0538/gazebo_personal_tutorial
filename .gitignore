@@ -7,3 +7,5 @@ install_manifest.txt
 build/*
 */.idea/*
 */build/*
+gazebo_components/transformation/.idea/*
+gazebo_components/transformation/build/*
