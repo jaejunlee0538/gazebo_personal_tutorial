@@ -1,6 +1,6 @@
 ## About DiffDrivePlugin
 
-* [plugin source code](diff_wheel_plugin)
+* [plugin source code][diff_wheel_plugin]
 
 Left/Right wheel velocity are calculated as follows.
 Idea is longitudinal velocity(`vr`) added or subtracted by angular velocity(`va`).
@@ -139,4 +139,4 @@ $ gzlog step 2015-06-28T03\:04\:18.103597/gzserver/state.log --filter my_p2dx/*_
 * velocity of chassis did not match with hand calculated values(**lon:rot = 1.0:0.349**)
 
 
-[diff_wheel_plugin]: https://bitbucket.org/osrf/gazebo/src/8091da8b3c529a362f39b042095e12c94656a5d1/plugins/DiffDrivePlugin.cc?at=gazebo2_2.2.5
+[diff_wheel_plugin]:https://bitbucket.org/osrf/gazebo/src/8091da8b3c529a362f39b042095e12c94656a5d1/plugins/DiffDrivePlugin.cc?at=gazebo2_2.2.5
